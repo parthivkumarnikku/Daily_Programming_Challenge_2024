@@ -42,7 +42,7 @@ This repository contains all the programs I have completed for the **Daily Progr
         k = 2
         Output: 5
 - **Language used:** C
-- **Solution:** [Link to the Solution Code](./September1/Solution.py)
+- **Solution:** [Link to the Solution Code](./01-09-2024/kth_largest_el_in_array.c)
   
 ---
 
