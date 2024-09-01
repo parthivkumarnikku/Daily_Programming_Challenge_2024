@@ -13,24 +13,24 @@ Output: 5
 #include <stdio.h>
 
 int count = 0;
-int return_kth(int arr[], int k){
+int return_kth(int arr[], int k , int n){
    
    int max = arr[0];
 
-   for (int i = 0; i<6; i++){
+   for (int i = 0; i<n; i++){
       if(arr[i] > max){
          max = arr[i];
       }
    }
    //printf("%d", max);    // 1
    count++;                // 2
-   for (int i = 0; i<6; i++){
+   for (int i = 0; i<n; i++){
       if(arr[i] == max){
          arr[i] = 0;
       }
    }                    // 3 -> array modified // 4 -> condition check
    if (count != k){
-      return_kth(arr , k);
+      return_kth(arr , k, n);
    }
    else 
    return max;
@@ -38,6 +38,18 @@ int return_kth(int arr[], int k){
 }
 
 void main(){
-   int arr[6] = {3,2,1,5,6,4};
-   printf("%d",return_kth(arr, 2));
+   printf("Enter the number of values in the array please : ");
+   int n;
+   scanf("%d",&n);
+   printf("Enter the value of k for which you need the kth largest number : ");
+   int k;
+   scanf("%d",&k);
+   int arr[n];
+   for (int i = 0; i < n; i++){
+      int number;
+      printf("Enter the number in %d place : ", i+1);
+      scanf("%d",&number);
+      arr[i] = number;
+   }
+   printf("The %d th largest number in the provided array is : %d", k ,return_kth(arr, k, n));
 }
