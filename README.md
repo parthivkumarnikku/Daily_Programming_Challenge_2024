@@ -56,13 +56,13 @@ This repository contains all the programs I have completed for the **Daily Progr
       The median is the middle value in an ordered list of numbers. 
       If the list has an even number of elements, the median is the average of the two middle numbers.
       Implement a function that returns the median of the array **without explicitly sorting** the entire array.
-      
+
       *Example* :
         arr = [3,2,1,4,5];
         output = 3
 
         arr = [7,10,4,3,20,15]
-        output = 8.5
+        output = 8.5  
         
 - **Language used:** C
 - **Solution:** [Link to the Solution Code](./03-09-2024/Median.c)
