@@ -29,7 +29,7 @@ This repository contains all the programs I have completed for the **Daily Progr
 
 ---
 ### **Daily Challenge**
-##### **Challange - 01**#####
+#### **Challange - 01**####
 ![Date](https://img.shields.io/badge/01-September%201st%202024-brightgreen)
 - **Challenge:** [Finding the kth largest number in an array without sorting]
 - **Language specification:** None
