@@ -29,8 +29,9 @@ This repository contains all the programs I have completed for the **Daily Progr
 
 ---
 ### **Daily Challenge**
+##### **Challange - 01**#####
 ![Date](https://img.shields.io/badge/01-September%201st%202024-brightgreen)
-- **Challenge:** [Finding the kth largest number in an array]
+- **Challenge:** [Finding the kth largest number in an array without sorting]
 - **Language specification:** None
 - **Discreption:**
     - You are given an unsorted array of integers and a positive integer K.     Your task is to find the Kth largest element in the array. The Kth largest element is the element that would appear in the Kth position if the array were sorted in descending order.
@@ -43,6 +44,27 @@ This repository contains all the programs I have completed for the **Daily Progr
         Output: 5
 - **Language used:** C
 - **Solution:** [Link to the Solution Code](./01-09-2024/kth_largest_el_in_array.c)
+
+##### **Challange - 02**#####
+![Date](https://img.shields.io/badge/03-September%203rd%202024-brightgreen)
+- **Challenge:** [Finding the median of an array with out sorting]
+- **Language specification:** None
+- **Discreption:**
+    - Practice Question 2
+      You are given an unsorted array of integers. 
+      Your task is to find the median of the array. 
+      The median is the middle value in an ordered list of numbers. 
+      If the list has an even number of elements, the median is the average of the two middle numbers.
+      Implement a function that returns the median of the array **without explicitly sorting** the entire array.
+      *Example* :
+        arr = [3,2,1,4,5];
+        output = 3
+
+        arr = [7,10,4,3,20,15]
+        output = 8.5
+        
+- **Language used:** C
+- **Solution:** [Link to the Solution Code](./03-09-2024/Median.c)
   
 ---
 
