@@ -28,8 +28,8 @@ This repository contains all the programs I have completed for the **Daily Progr
 
 
 ---
-### **Daily Challenge**
-#### **Challange - 01**####
+## **Daily Challenge**
+### **Challange - 01**
 ![Date](https://img.shields.io/badge/01-September%201st%202024-brightgreen)
 - **Challenge:** [Finding the kth largest number in an array without sorting]
 - **Language specification:** None
@@ -45,7 +45,7 @@ This repository contains all the programs I have completed for the **Daily Progr
 - **Language used:** C
 - **Solution:** [Link to the Solution Code](./01-09-2024/kth_largest_el_in_array.c)
 
-##### **Challange - 02**#####
+### **Challange - 02**
 ![Date](https://img.shields.io/badge/03-September%203rd%202024-brightgreen)
 - **Challenge:** [Finding the median of an array with out sorting]
 - **Language specification:** None
