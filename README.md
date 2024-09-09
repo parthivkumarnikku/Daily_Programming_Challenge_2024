@@ -29,7 +29,7 @@ This repository contains all the programs I have completed for the **Daily Progr
 
 ---
 ## **Daily Challenge**
-### **Challange - 01**
+### **Practice Challange - 01**
 ![Date](https://img.shields.io/badge/01-September%201st%202024-brightgreen)
 - **Challenge:** [Finding the kth largest number in an array without sorting]
 - **Language specification:** None
@@ -45,8 +45,8 @@ This repository contains all the programs I have completed for the **Daily Progr
 - **Language used:** C
 - **Solution:** [Link to the Solution Code](./01-09-2024/kth_largest_el_in_array.c)
 
-### **Challange - 02**
-![Date](https://img.shields.io/badge/03-September%203rd%202024-brightgreen)
+### **Practice Challange - 02**
+![Date](https://img.shields.io/badge/02-September%203rd%202024-brightgreen)
 - **Challenge:** [Finding the median of an array with out sorting]
 - **Language specification:** None
 - **Discreption:**
@@ -66,7 +66,26 @@ This repository contains all the programs I have completed for the **Daily Progr
         
 - **Language used:** C
 - **Solution:** [Link to the Solution Code](./03-09-2024/Median.c)
-  
+
+### **Challange DAY - 01**
+![Date](https://img.shields.io/badge/03-September%209th%202024-brightgreen)
+- **Challenge:** [Sorting an array containing only 0's ,1's and 2's]
+- **Language specification:** Any
+- **Discreption:**
+    - **Problem**: *Sort an Array of 0s, 1s, and 2s.*
+      *You are given an array arr consisting only of 0s, 1s, and 2s. The task is to sort    the array in increasing order in linear time (i.e., O(n)) without using any extra space.*
+      *This means you need to rearrange the array in-place.*
+    - **Input**:
+      *An integer array arr of size n where each element is either 0, 1, or 2.*
+      **Example** *: arr = [0, 1, 2, 1, 0, 2, 1, 0]*
+    - **Output**:
+        *The sorted array, arranged in increasing order of 0s, 1s, and 2s.*
+        **Example** *: [0, 0, 0, 1, 1, 1, 2, 2]*
+    - [*Clink me for Detailed problem statement link*](https://docs.google.com/document/d/1zulQT5UscxDgFheelTx8luFiIl7jarUzpjIMcSWFOV0/edit?usp=sharing) 
+    
+
+- **Language used:** C
+- **My Solution:** [Link to the Solution Code](./DAY-1_09-09-2024/insertion_sort.c)
 ---
 
 ## **Note:**
