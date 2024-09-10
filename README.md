@@ -86,6 +86,25 @@ This repository contains all the programs I have completed for the **Daily Progr
 
 - **Language used:** C
 - **My Solution:** [Link to the Solution Code](./DAY-1_09-09-2024/insertion_sort.c)
+  
+### **Challange DAY - 02**
+![Date](https://img.shields.io/badge/04-September%2010th%202024-brightgreen)
+- **Challenge:** [Finding missing numbers from set of consiquetive numbers in an array]
+- **Language specification:** Any
+- **Discreption:**
+    - **Problem**: *Find the missing number*
+          *You are given an array arr containing n-1 distinct integers. The array consists of integers taken from the range 1 to n, meaning one integer is missing from this sequence.            Your task is to find the missing integer.*
+    - **Input**:
+      *An integer array arr of size n-1 where the elements are distinct and taken from the range 1 to n.*
+      **Example** *: arr = [1, 2, 4, 5]*
+    - **Output**:
+        *Return the missing integer from the array.*
+        **Example** *: "Missing Number : 3"*
+    - [*Clink me for Detailed problem statement link*](https://docs.google.com/document/d/1C5MrTIn13JTzcEGD5QnNK1jzPlXAcZJ_Q_uCpJOVUAI/edit?usp=sharing) 
+    
+
+- **Language used:** C
+- **My Solution:** [Link to the Solution Code](DAY-2_10-09-2024/number_in_array.c)
 ---
 
 ## **Note:**
