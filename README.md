@@ -105,6 +105,27 @@ This repository contains all the programs I have completed for the **Daily Progr
 
 - **Language used:** C
 - **My Solution:** [Link to the Solution Code](DAY-2_10-09-2024/number_in_array.c)
+
+### **Challange DAY - 03**
+![Date](https://img.shields.io/badge/05-September%2011th%202024-brightgreen)
+- **Challenge:** [Finding the repeated elements/duplicates in the given array]
+- **Language specification:** Any
+- **Discreption:**
+    - **Problem**: *Find the duplicate number*
+      *You are given an array arr containing n+1 integers, where each integer is in the range [1, n] inclusive. There is exactly one duplicate number in the array, but it may appear more than once. Your task is to find the duplicate number without modifying the array and using constant extra space.*
+    - **Input**:
+      *An integer array arr of size n+1, where each element is an integer in the range [1, n].*
+      **Example:** *arr = [3, 1, 3, 4, 2]*
+    - **Output**:
+        *Return the duplicate integer present in the array.*
+        **Example :** *Duplicate Number : 3*
+    - [*Clink me for Detailed problem statement link*](https://docs.google.com/document/d/1MV-A97iJMh0Vr-JIhVOT5u59k4HWE8R-0gHept2FRFw/edit?usp=sharing)
+    
+
+- **Language used:** C
+- **My Solution:** [Link to the Solution Code](./DAY-3_11-09-2024/Duplicate_inside_array.c)
+- **Info:**
+    - *DAY 3 question to find the duplocate is done , but it has a comlexity of o(n^2), There is a method called **floids circle** which has the complexity O(1); since the question didnot mention about complexity in time, i have done this with the complexity of O(n^2) and soon there will be a update with new code.*
 ---
 
 ## **Note:**
