@@ -126,6 +126,27 @@ This repository contains all the programs I have completed for the **Daily Progr
 - **My Solution:** [Link to the Solution Code](./DAY-3_11-09-2024/Duplicate_inside_array.c)
 - **Info:**
     - *DAY 3 question to find the duplocate is done , but it has a comlexity of o(n^2), There is a method called **floids circle** which has the complexity O(1); since the question didnot mention about complexity in time, i have done this with the complexity of O(n^2) and soon there will be a update with new code.*
+
+### **Challange DAY - 04**
+![Date](https://img.shields.io/badge/06-September%2012th%202024-brightgreen)
+- **Challenge:** [Merging Two Sorted Arrays]
+- **Language specification:** Any
+- **Discreption:**
+    - **Problem**: *You are given two sorted arrays arr1 of size m and arr2 of size n. Your task is to merge these two arrays into a single sorted array without using any extra space (i.e., in-place merging). The elements in arr1 should be merged first, followed by the elements of arr2, resulting in both arrays being sorted after the merge.*
+    - **Input**:
+      *Two sorted integer arrays arr1 of size m and arr2 of size n.*
+
+      **Example:** *arr1 = [1, 3, 5, 7]*
+                   *arr2 = [2, 4, 6, 8]*
+    - **Output**:
+        *Both arr1 and arr2 should be sorted after the merge. Since you cannot use extra space, the final result will be reflected in arr1 and arr2.*
+        **Example :** *arr1 = [1, 2, 3, 4]*
+                      *arr2 = [5, 6, 7, 8*
+    - [*Clink me for Detailed problem statement link*](https://docs.google.com/document/d/1mgsQjvyyH3FkpW6T8OhlJs8ckhrWmLqkmI5jhhyKQek/edit?usp=sharing)
+    
+
+- **Language used:** C
+- **My Solution:** [Link to the Solution Code](./DAY-4_12-09-2024/inplace_merge.c)
 ---
 
 ## **Note:**
