@@ -147,7 +147,27 @@ This repository contains all the programs I have completed for the **Daily Progr
 
 - **Language used:** C
 - **My Solution:** [Link to the Solution Code](./DAY-4_12-09-2024/inplace_merge.c)
+
+### **Challange DAY - 05**
+![Date](https://img.shields.io/badge/07-September%2013th%202024-brightgreen)
+- **Challenge:** [Find the Leaders in an Array]
+- **Language specification:** Any
+- **Discreption:**
+    - **Problem**: *You are given an integer array arr of size n. An element is considered a leader if it is greater than all the elements to its right. Your task is to find all such leader elements in the array.*
+    - **Input**:
+      *An integer array arr of size n.*
+
+      **Example:** *arr = [16, 17, 4, 3, 5, 2]*
+    - **Output**:
+        *Return an array containing all the leader elements in the order in which they appear in the original array.*
+        **Example :** *Leaders: [17, 5, 2]*
+    - [*Clink me for Detailed problem statement link*](https://docs.google.com/document/d/1v1SHC2FKph3o5pac0OYMJUE-c3Lambu9sG6kX8U1scw/edit?usp=sharing)
+    
+
+- **Language used:** C
+- **My Solution:** [Link to the Solution Code](./DAY-5_13-09-2024/finding_leader.c)
 ---
+
 
 ## **Note:**
 I'll be continually learning and developing new skills throughout this event, and I'm excited to share this journey with you.
