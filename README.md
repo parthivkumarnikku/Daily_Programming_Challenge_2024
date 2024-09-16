@@ -185,7 +185,27 @@ This repository contains all the programs I have completed for the **Daily Progr
     
 
 - **Language used:** C
-- **My Solution:** [Link to the Solution Code](./DAY-5_13-09-2024/finding_leader.c)
+- **My Solution:** [Link to the Solution Code](./DAY-6_14_09_2024/subarray.c)
+
+### **Challange DAY - 07**
+![Date](https://img.shields.io/badge/09-September%2015th%202024-brightgreen)
+- **Challenge:** [Trapping Rain Water]
+- **Language specification:** Any
+- **Discreption:**
+    - **Problem**: *You are given an array height[] of non-negative integers where each element represents the height of a bar in a histogram-like structure. These bars are placed next to each other, and the width of each bar is 1 unit. When it rains, water gets trapped between the bars if there are taller bars on both the left and right of the shorter bars. The task is to calculate how much water can be trapped between these bars after the rain.*
+    - **Input**:
+      *An integer array height[] where each element represents the height of a bar in the histogram.*
+
+      **Example:** *[0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1]*
+    - **Output**:
+        - *An integer representing the total units of water that can be trapped between the bars.*
+        **Example :** *Output: 6*
+    - [*Clink me for Detailed problem statement link*](https://docs.google.com/document/d/1I96Q-XbySvDCQaWnK8ZUZpsggWU8B7McCqp_PrIjwE4/edit?usp=sharing)
+    - This code is a challange in leetcode [*link*](https://leetcode.com/problems/trapping-rain-water/description/)
+    
+
+- **Language used:** C
+- **My Solution:** [Link to the Solution Code](./DAY-7_15_09_2024/water_tapping.c)
 ---
 
 
