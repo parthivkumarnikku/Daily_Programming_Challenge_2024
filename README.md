@@ -206,6 +206,26 @@ This repository contains all the programs I have completed for the **Daily Progr
 
 - **Language used:** C
 - **My Solution:** [Link to the Solution Code](./DAY-7_15_09_2024/water_tapping.c)
+
+### **Challange DAY - 08**
+![Date](https://img.shields.io/badge/10-September%2016th%202024-brightgreen)
+- **Challenge:** [Reverse a String Word by Word]
+- **Language specification:** Any
+- **Discreption:**
+    - **Problem**: *You are given a string s that consists of multiple words separated by spaces. Your task is to reverse the order of the words in the string. Words are defined as sequences of non-space characters. The output string should not contain leading or trailing spaces, and multiple spaces between words should be reduced to a single space.*
+    - **Input**:
+      *A string s of length n (1 ≤ n ≤ 10^4) consisting of letters, digits, punctuation, and spaces.*
+
+      **Example:** *the sky is blue*
+    - **Output**:
+        - *A string where the words in s are reversed, with a single space separating the words, and no leading or trailing spaces.*
+        **Example :** *"blue is sky the"*
+    - [*Clink me for Detailed problem statement link*](https://docs.google.com/document/d/13IzrCQA_ns6SJdwHDV1nIKo3-zCpPFn9b72sXWUyNDo/edit?usp=sharing)
+    - This code is a challange in leetcode [*link*](https://leetcode.com/problems/reverse-words-in-a-string/description/?source=submission-ac)
+    
+
+- **Language used:** Python
+- **My Solution:** [Link to the Solution Code](./DAY-8_16_09_2024/reverse_word_by_word.py)
 ---
 
 
