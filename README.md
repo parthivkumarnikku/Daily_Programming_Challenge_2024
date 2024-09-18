@@ -226,6 +226,25 @@ This repository contains all the programs I have completed for the **Daily Progr
 
 - **Language used:** Python
 - **My Solution:** [Link to the Solution Code](./DAY-8_16_09_2024/reverse_word_by_word.py)
+
+### **Challange DAY - 09**
+![Date](https://img.shields.io/badge/11-September%2017th%202024-brightgreen)
+- **Challenge:** [Longest Common Prefix]
+- **Language specification:** Any
+- **Discreption:**
+    - **Problem**: *You are given an array of strings strs[], consisting of lowercase letters. Your task is to find the longest common prefix shared among all the strings. If there is no common prefix, return an empty string "".*
+    - **Input**:
+      *An array of strings strs[] where each string consists of lowercase English letters.*
+
+      **Example:** *strs[] = ["flower", "flow", "flight"]*
+    - **Output**:
+        - *A string representing the longest common prefix. If no common prefix exists, return an empty string "".*
+        **Example :** *"fl"*
+    - [*Clink me for Detailed problem statement link*](https://docs.google.com/document/d/1--O8LT-DTcSTxi9PTChSS9bHE-Ht-izLKWqEyeXaK30/edit?usp=sharing)
+    
+
+- **Language used:** Python
+- **My Solution:** [Link to the Solution Code](./DAY-9_17_09_2024/longest_common_prfx.c)
 ---
 
 
@@ -236,7 +255,7 @@ I'll be continually learning and developing new skills throughout this event, an
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/parthiv-kumar-nikku-a9313a25a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bg37Owrd4Qf6%2Bx21Dm%2Fmymw%3D%3D)
 - **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-Profile-yellow)](https://github.com/parthivkumarnikku)
 - **E-Mail:** [![Mail](https://img.shields.io/badge/Email-Id-orange)](parthivkumarnikku@gmail.com)
-
+https://docs.google.com/document/d/13IzrCQA_ns6SJdwHDV1nIKo3-zCpPFn9b72sXWUyNDo/edit?usp=sharin
 Feel free to connect with me on LinkedIn or explore my other projects on GitHub!
 
 ---
